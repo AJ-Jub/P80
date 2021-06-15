@@ -1,0 +1,19 @@
+html{
+    text-align: center;
+}
+
+Submit{
+    width: fit-content;
+    height: fit-content;
+}
+
+show_names{
+    vertical-align: middle;
+}
+
+.line{
+    height: 0.5px;
+    background-color: #000;
+    width: 99999px;
+    margin: 8px auto;
+}
